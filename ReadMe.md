@@ -104,4 +104,4 @@ TOKEN_PERCENTAGE=1 #percentage
 ---
 ## Support
 
-For support and further inquiries, please connect via Telegram: 📞 [soulcapridev](https://t.me/soulcapridev).
+For support and further inquiries, please connect via Telegram: 📞 [soulcrancerdev](https://t.me/soulcrancerdev).

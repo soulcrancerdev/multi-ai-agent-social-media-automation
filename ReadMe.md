@@ -11,6 +11,9 @@
 
 A sophisticated multi-agent system that automates social media content creation, scheduling, and publishing using **7 specialized AI agents** working in harmony. Built with the recommended **Hybrid n8n + LangGraph** architecture for maximum flexibility and speed.
 
+🎥 Dive deeper into this game-changing technology by watching the full video: 
+https://www.youtube.com/watch?v=nfNMl9xLnLw
+
 ### Why This Architecture?
 
 - ✅ **Fast Development**: 3-4 weeks vs 2-3 months for pure code
